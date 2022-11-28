@@ -35,7 +35,7 @@ Table of Contents
    1. `Installation <#installation>`__
    2. `Examples <#examples>`__
    3. `Quickstart <#quickstart>`__
-   4. `Question Types <#types>`__
+   4. `Question Types <#question-types>`__
    5. `Question Properties <#properties>`__
    6. `User Interfaces and Styles <#styles>`__
 
